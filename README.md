@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-### OperaTerra AS
 
-# Terraform Azure Infrastructure
+# OperaTerra AS
 
-# made by Sarhad Hanan
-# sarhadh@stud.ntnu.no
-# 
+## Terraform Azure Infrastructure
+
+## made by Sarhad Hanan
+## sarhadh@stud.ntnu.no
+#
 ## Beskrivelse
 Dette prosjektet oppretter en komplett infrastruktur i Azure ved hjelp av Terraform. Infrastrukturen består av:
 - Et Virtual Network (VNet) med Subnet og Network Security Group (NSG).
@@ -168,9 +168,14 @@ Når infrastrukturen er opprettet, vil følgende outputs være tilgjengelige:
 ## Skjermbilder
 Her er eksempler på skjermbilder som viser vellykket oppretting og destruksjon av infrastrukturen:
 
-- **Oppretting av infrastruktur**:
+
+- **Planning av infrastruktur**:
   ![Terraform Apply Success](./github-terraform/skjermbilde/plan.png)
 
+- **Oppretting av infrastruktur**:
+  ![Terraform Apply Success](./github-terraform/skjermbilde/creating.png)
+
 - **Destruksjon av infrastruktur**:
->>>>>>> e13cdf339230b9a636b4c4d4e40208ac5494dc2a
+
   ![Terraform Destroy Success](./github-terraform/skjermbilde/Deleting.png)
+  
