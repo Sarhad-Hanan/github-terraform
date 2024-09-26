@@ -170,12 +170,12 @@ Her er eksempler på skjermbilder som viser vellykket oppretting og destruksjon 
 
 
 - **Planning av infrastruktur**:
-  ![Terraform Apply Success](./github-terraform/skjermbilde/plan.png)
+  ![Terraform Apply Success](skjermbilde/plan.png)
 
 - **Oppretting av infrastruktur**:
-  ![Terraform Apply Success](./github-terraform/skjermbilde/creating.png)
+  ![Terraform Apply Success](skjermbilde/creating.png)
 
 - **Destruksjon av infrastruktur**:
 
-  ![Terraform Destroy Success](./github-terraform/skjermbilde/Deleting.png)
+  ![Terraform Destroy Success](skjermbilde/Deleting.png)
   
