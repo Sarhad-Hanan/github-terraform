@@ -1,0 +1,17 @@
+resource_group_name  = "rgSarhad"
+location             = "westeurope"
+vnet_name            = "myVNet"
+address_space        = ["10.0.0.0/16"]
+subnet_name          = "mySubnet"
+subnet_prefixes      = ["10.0.1.0/24"]
+nsg_name             = "myNSG"
+storage_account_name = "mystorageacct"
+account_tier         = "Standard"
+replication_type     = "LRS"
+container_name       = "mycontainer"
+vm_name              = "myVM"
+vm_size              = "Standard_B2s"
+admin_username       = "adminuser"
+admin_password       = "1!SAu&23E pWSFE32rfw"
+key_vault_name       = "KeyVaultSarhad"
+tenant_id            = "f689cf06-1883-4e05-a677-718074c6f04d"
